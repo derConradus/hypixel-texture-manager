@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Texture Manager</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <h1>Minecraft Texture Manager</h1>
+
+    <label for="packSelect">Wähle ein Resource Pack:</label>
+    <select id="packSelect"></select>
+
+    <div id="packInfo">
+        <h2>Pack-Informationen</h2>
+        <p><strong>Name:</strong> <span id="packName">-</span></p>
+        <p><strong>Version:</strong> <span id="packVersion">-</span></p>
+        <p><strong>Autor:</strong> <span id="packAuthor">-</span></p>
+        <p><strong>Priorität:</strong> <span id="packPriority">-</span></p>
+        <p><a id="packURL" href="#" target="_blank">Website</a></p>
+    </div>
+
+    <!-- Dropdown für Sortierung -->
+    <select id="sortSelect">
+        <option value="category">Kategorie</option>
+        <option value="name">Name</option>
+        <!-- Weitere Sortieroptionen hinzufügen -->
+    </select>
+
+    <!-- Suchfeld -->
+    <input type="text" id="searchInput" placeholder="Suche nach Items...">
+
+    <!-- Category Tabs -->
+    <div id="categoryTabs"></div>
+
+    <!-- Container für Texturen -->
+    <div id="texturePreviewContainer"></div>
+
+
+    <div id="itemsGrid"></div>
+    <button id="exportBtn">Exportieren</button>
+</body>
+</html>

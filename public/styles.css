@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#packInfo {
+    background: white;
+    padding: 15px;
+    margin: 10px auto;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#itemsGrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.item {
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    width: 120px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.item img {
+    width: 100px;
+    height: 100px;
+}
+
+.textureSelect {
+    width: 100%;
+    margin-top: 5px;
+}
+
+#exportBtn {
+    margin-top: 20px;
+    padding: 10px 15px;
+    font-size: 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#exportBtn:hover {
+    background-color: #218838;
+}
+
+.animated-badge {
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #ff9800;
+}
+
+.texture-box {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.texture-box img {
+    width: 100px;
+    height: 100px;
+}
+
