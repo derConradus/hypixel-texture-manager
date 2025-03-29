@@ -22,6 +22,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
                         // Sort items first by priority and then by name
                         sorterConfig.sorting.forEach(sortMethod => {
+                            /*if (sortMethod.key === 'priority') {
+                                itemsData.sort((a, b) => b.priority - a.priority);
+                            }*/
                             if (sortMethod.key === 'name') {
                                 itemsData.sort((a, b) => a.name.localeCompare(b.name));
                             }
