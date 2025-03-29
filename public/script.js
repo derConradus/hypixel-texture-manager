@@ -6,31 +6,28 @@ document.addEventListener("DOMContentLoaded", function () {
     let itemsData = [];
     let sorterConfig = {};
 
-    // Funktion zum Laden der Sortier- und Kategoriedateien
+    // Function to load sorting and category files
     function loadSortingConfig() {
-        const sorterURL = 'http://localhost:3000/data/sorter/sorter.json';  // Backend-URL für sorter.json
+        const sorterURL = 'http://localhost:3000/data/sorter/sorter.json';  // Backend URL for sorter.json
         fetch(sorterURL)
             .then(response => response.json())
             .then(data => {
                 sorterConfig = data;
 
-                const itemsURL = 'http://localhost:3000/data/items.json';  // Backend-URL für items.json
+                const itemsURL = 'http://localhost:3000/data/items.json';  // Backend URL for items.json
                 fetch(itemsURL)
                     .then(response => response.json())
                     .then(items => {
                         itemsData = items;
 
-                        // Sortiere Items zuerst nach Priorität und dann nach Name
+                        // Sort items first by priority and then by name
                         sorterConfig.sorting.forEach(sortMethod => {
-                            /*if (sortMethod.key === 'priority') {
-                                itemsData.sort((a, b) => b.priority - a.priority);
-                            }*/
                             if (sortMethod.key === 'name') {
                                 itemsData.sort((a, b) => a.name.localeCompare(b.name));
                             }
                         });
 
-                        // Dynamisch Kategorien als Reiter hinzufügen
+                        // Dynamically add categories as tabs
                         const categories = sorterConfig.categories;
                         Object.keys(categories).forEach(category => {
                             const tab = document.createElement('button');
@@ -39,15 +36,15 @@ document.addEventListener("DOMContentLoaded", function () {
                             categoryTabs.appendChild(tab);
                         });
 
-                        // Zeige die erste Kategorie standardmäßig
+                        // Show the first category by default
                         showCategoryItems(Object.keys(categories)[0], categories[Object.keys(categories)[0]]);
                     })
-                    .catch(error => console.error("Fehler beim Laden der Item-Daten:", error));
+                    .catch(error => console.error("Error loading item data:", error));
             })
-            .catch(error => console.error("Fehler beim Laden der Sortierkonfiguration:", error));
+            .catch(error => console.error("Error loading sorting configuration:", error));
     }
 
-    // Funktion zum Anzeigen von Items nach Kategorie
+    // Function to display items by category
     function showCategoryItems(category, itemNames) {
         const filteredItems = itemsData.filter(item => itemNames.includes(item.name));
 
@@ -58,8 +55,8 @@ document.addEventListener("DOMContentLoaded", function () {
             itemDiv.classList.add('item');
 
             const itemImage = document.createElement('img');
-            itemImage.src = `http://localhost:3000/resourcepacks/${category}/${item.name}.png`;  // Dynamisch Texturen vom Server holen
-            itemImage.alt = `Textur für ${item.name}`;
+            itemImage.src = `http://localhost:3000/resourcepacks/${category}/${item.name}.png`;  // Dynamically fetch textures from server
+            itemImage.alt = `Texture for ${item.name}`;
 
             const itemName = document.createElement('p');
             itemName.textContent = item.name;
@@ -73,18 +70,74 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     }
 
-    // Funktion zum Anzeigen der Texturen eines Items
+    // Function to display the textures of an item
     function showTextures(item) {
-        texturePreviewContainer.innerHTML = '';  // Leere vorherige Vorschau
+        texturePreviewContainer.innerHTML = '';  // Clear previous preview
 
-        const textureUrl = `http://localhost:3000/resourcepacks/${item.category}/${item.name}.png`;  // URL der Textur
+        const textureUrl = `http://localhost:3000/resourcepacks/${item.category}/${item.name}.png`;  // URL of the texture
 
         const textureImage = document.createElement('img');
         textureImage.src = textureUrl;
-        textureImage.alt = "Textur";
+        textureImage.alt = "Texture";
 
         texturePreviewContainer.appendChild(textureImage);
     }
+
+    // Function to export data as JSON (Export the data for another time)
+    function exportDataAsJson(data) {
+        const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+        saveAs(blob, 'texture_data.json');
+    }
+
+    // Function to export data as ZIP (Export the Texturepack)
+    function exportDataAsZip(data) {
+        const zip = new JSZip();
+
+        // Add all textures as files in the ZIP
+        data.forEach(item => {
+            const textureUrl = `http://localhost:3000/resourcepacks/${item.category}/${item.name}.png`;
+            fetch(textureUrl)
+                .then(response => response.blob())
+                .then(blob => {
+                    zip.file(`${item.category}/${item.name}.png`, blob);
+                });
+        });
+
+        // Once all textures are added, generate the ZIP and download it
+        zip.generateAsync({ type: "blob" })
+            .then(function(content) {
+                saveAs(content, "texture_pack.zip");
+            });
+    }
+
+    // Function to gather current data from the UI
+    function gatherData() {
+        let data = [];
+        const categoryTabs = document.querySelectorAll('#categoryTabs .categoryTab');
+        categoryTabs.forEach(tab => {
+            const categoryName = tab.querySelector('h3').textContent;
+            tab.querySelectorAll('.item').forEach(item => {
+                const itemData = {
+                    name: item.querySelector('p').textContent,
+                    category: categoryName
+                };
+                data.push(itemData);
+            });
+        });
+        return data;
+    }
+
+    // Event listener for the Export as Data button (Export the data for another time)
+    document.getElementById('exportDataBtn').addEventListener('click', () => {
+        const dataToExport = gatherData();  // Collect the data from the UI
+        exportDataAsJson(dataToExport);  // Export as JSON
+    });
+
+    // Event listener for the Export as Texturepack button (Export the Texturepack)
+    document.getElementById('exportTextureBtn').addEventListener('click', () => {
+        const dataToExport = gatherData();  // Collect the data from the UI
+        exportDataAsZip(dataToExport);  // Export as ZIP
+    });
 
     loadSortingConfig();
 });
