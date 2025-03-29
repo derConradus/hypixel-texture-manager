@@ -12,36 +12,41 @@
 <body>
     <h1>Minecraft Texture Manager</h1>
 
-    <label for="packSelect">Wähle ein Resource Pack:</label>
+    <label for="packSelect">Choose a Resource Pack:</label>
     <select id="packSelect"></select>
 
     <div id="packInfo">
-        <h2>Pack-Informationen</h2>
+        <h2>Pack Information</h2>
         <p><strong>Name:</strong> <span id="packName">-</span></p>
         <p><strong>Version:</strong> <span id="packVersion">-</span></p>
-        <p><strong>Autor:</strong> <span id="packAuthor">-</span></p>
-        <p><strong>Priorität:</strong> <span id="packPriority">-</span></p>
+        <p><strong>Author:</strong> <span id="packAuthor">-</span></p>
+        <p><strong>Priority:</strong> <span id="packPriority">-</span></p>
         <p><a id="packURL" href="#" target="_blank">Website</a></p>
     </div>
 
-    <!-- Dropdown für Sortierung -->
+    <!-- Sort and Search Options -->
     <select id="sortSelect">
-        <option value="category">Kategorie</option>
+        <option value="category">Category</option>
         <option value="name">Name</option>
-        <!-- Weitere Sortieroptionen hinzufügen -->
     </select>
 
-    <!-- Suchfeld -->
-    <input type="text" id="searchInput" placeholder="Suche nach Items...">
+    <input type="text" id="searchInput" placeholder="Search for items...">
 
     <!-- Category Tabs -->
     <div id="categoryTabs"></div>
 
-    <!-- Container für Texturen -->
+    <!-- Container for Texture Previews -->
     <div id="texturePreviewContainer"></div>
 
-
     <div id="itemsGrid"></div>
-    <button id="exportBtn">Exportieren</button>
+
+    <!-- Import and Export Buttons -->
+    <input type="file" id="importBtn" style="display: none;" accept=".json">
+    <button onclick="document.getElementById('importBtn').click()">Import Data</button>
+
+    <!-- Export Buttons with Different Styles -->
+    <button id="exportDataBtn" class="exportButton dataBtn">Export the Data for Another Time</button>
+    <button id="exportTextureBtn" class="exportButton textureBtn">Export the Texturepack</button>
+
 </body>
 </html>

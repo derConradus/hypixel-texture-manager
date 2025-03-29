@@ -77,3 +77,38 @@ h1 {
     height: 100px;
 }
 
+.exportButton {
+    margin-top: 20px;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 200px;  /* Optional: Gleiche Größe für beide Buttons */
+}
+
+.exportButton:hover {
+    opacity: 0.8;
+}
+
+
+/* Style for the "Export the Data" Button */
+.dataBtn {
+    background-color: #28a745;
+    color: white;
+}
+
+.dataBtn:hover {
+    background-color: #218838;
+}
+
+/* Style for the "Export the Texturepack" Button */
+.textureBtn {
+    background-color: #007bff;
+    color: white;
+}
+
+.textureBtn:hover {
+    background-color: #0056b3;
+}
+
