@@ -1,0 +1,21 @@
+{
+    "default": {
+      "name": "Name",
+      "priority": "Priority"
+    },
+    "customCategories": [
+      {
+        "categoryName": "Swords",
+        "file": "customSorters/swords.json"
+      },
+      {
+        "categoryName": "Armor",
+        "file": "customSorters/armor.json"
+      },
+      {
+        "categoryName": "Tools",
+        "file": "customSorters/tools.json"
+      }
+    ]
+  }
+  

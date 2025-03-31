@@ -1,0 +1,9 @@
+{
+    "categoryName": "All Swords (except one)",
+    "filter": {
+      "type": "sword",
+      "exclude": ["Legendary Sword"]
+    },
+    "sortBy": ["priority", "name"]
+  }
+  

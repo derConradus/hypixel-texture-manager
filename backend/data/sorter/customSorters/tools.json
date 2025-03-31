@@ -1,0 +1,8 @@
+{
+    "categoryName": "All Tools",
+    "filter": {
+      "type": "tool"
+    },
+    "sortBy": ["priority", "name"]
+  }
+  
