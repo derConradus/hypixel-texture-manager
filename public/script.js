@@ -6,6 +6,24 @@ document.addEventListener("DOMContentLoaded", function () {
     let itemsData = [];
     let sorterConfig = {};
 
+    // at loading to get a list of all texture packs
+    window.onload = function() {
+        fetch('/resourcepackslist/')
+          .then(response => response.json())
+          .then(data => {
+            const texturePackSelect = document.getElementById('texturePackSelect'); // Die ID der Select-Box
+      
+            // list into select box
+            data.forEach(pack => {
+              const option = document.createElement('option');
+              option.value = pack.id; 
+              option.textContent = pack.name;
+              texturePackSelect.appendChild(option);
+            });
+          })
+          .catch(error => console.error('Fehler beim Laden der Texture Packs:', error));
+      };
+
     // Function to load sorting and category files
     function loadSortingConfig() {
         const sorterURL = 'http://localhost:3000/data/sorter/sorter.json';  // Backend URL for sorter.json
