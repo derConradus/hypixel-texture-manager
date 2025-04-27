@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
         fetch('/resourcepackslist/')
           .then(response => response.json())
           .then(data => {
-            const texturePackSelect = document.getElementById('texturePackSelect'); // Die ID der Select-Box
+            const texturePackSelect = document.getElementById('packSelect'); // Die ID der Select-Box
       
             // list into select box
             data.forEach(pack => {
@@ -159,6 +159,92 @@ document.addEventListener("DOMContentLoaded", function () {
         const dataToExport = gatherData();  // Collect the data from the UI
         exportDataAsZip(dataToExport);  // Export as ZIP
     });
+
+// Funktion to load the items and show them in the grid
+function loadItemsGrid(items) {
+    itemsGrid.innerHTML = '';  // empty grid
+
+    items.forEach(item => {
+        const itemElement = document.createElement('div');
+        itemElement.classList.add('item');
+        itemElement.setAttribute('data-id', item.id);
+
+        // make a texture-image for each item
+        const texture = document.createElement('img');
+        texture.src = `data:image/png;base64,${item.skin.value}`;  // Base64-image
+        texture.alt = item.name;
+        texture.classList.add('item-texture');
+
+        // create a label for each name of the items
+        const name = document.createElement('span');
+        name.innerText = item.name;
+        name.classList.add('item-name');
+
+        itemElement.appendChild(texture);
+        itemElement.appendChild(name);
+
+        // added event-listener, if click on an item
+        itemElement.addEventListener('click', () => onItemClick(item));
+
+        itemsGrid.appendChild(itemElement);
+    });
+}
+
+loadItemsGrid(items.items); 
+
+function onItemClick(item) {
+    const texturePreviewContainer = document.getElementById('texturePreviewContainer');
+
+    // show the pick texture a a priview
+    const preview = document.createElement('img');
+    preview.src = `data:image/png;base64,${item.skin.value}`;
+    preview.alt = 'Texture Preview';
+    preview.classList.add('texture-preview');
+
+    texturePreviewContainer.innerHTML = '';  // empte the container
+    texturePreviewContainer.appendChild(preview);
+
+    // list of all availible texture showing
+    const textureList = document.createElement('div');
+    textureList.classList.add('texture-list');
+
+    item.alternativeTextures?.forEach(textureData => {
+        const textureItem = document.createElement('div');
+        textureItem.classList.add('texture-item');
+
+        const textureImage = document.createElement('img');
+        textureImage.src = `data:image/png;base64,${textureData.value}`;
+        textureImage.classList.add('texture-image');
+        textureItem.appendChild(textureImage);
+
+        textureItem.addEventListener('click', () => onTextureSelect(textureData));
+
+        textureList.appendChild(textureItem);
+    });
+
+    texturePreviewContainer.appendChild(textureList);
+}
+
+function onTextureSelect(textureData) {
+    // change preview picture, if a new texture is picked
+    const texturePreview = document.querySelector('.texture-preview');
+    texturePreview.src = `data:image/png;base64,${textureData.value}`;
+
+    //console.log('Selected texture:', textureData);
+}
+
+// funktion to load from json files
+function loadJson(url) {
+    return fetch(url)
+        .then(response => response.json())
+        .then(data => data)
+        .catch(error => console.error('Error loading JSON:', error));
+}
+
+loadJson('../backend/data/items.json').then(data => {
+    loadItemsGrid(data.items);
+});
+
 
     loadSortingConfig();
 });

@@ -21,7 +21,7 @@ app.get('/data/sorter/sorter.json', (req, res) => {
 
 // Endpoint for Reource packs tetures
 app.get('/resourcepacks/:pack/:texture', (req, res) => {
-    const { pack, texture } = req.params;
+    /*const { pack, texture } = req.params;
     const texturePath = path.join(__dirname, 'resourcepacks', pack, texture);
 
     // controll, if texture exist
@@ -30,8 +30,70 @@ app.get('/resourcepacks/:pack/:texture', (req, res) => {
             return res.status(404).send('Texture not found');
         }
         res.sendFile(texturePath);
+    });*/
+
+    /*const { pack, texture } = req.params;
+    const resourcePackDir = path.join(__dirname, 'resourcepacks', pack);
+
+    // Start the search in the root directory of the resource pack
+    searchDirectoryForTexture(resourcePackDir, texture, (err, texturePath) => {
+        if (err) {
+            return res.status(404).send(err);  // Texture not found
+        }
+
+        // Send the texture file if found
+        res.sendFile(texturePath);
+    });*/
+
+    const { pack, texture } = req.params;
+    const resourcePackDir = path.join(__dirname, 'resourcepacks', pack);
+
+    let responseSent = false;  // Flag to prevent multiple responses
+
+    // Start the search in the root directory of the resource pack
+    searchDirectoryForTexture(resourcePackDir, texture, (err, texturePath) => {
+        if (responseSent) return;  // Prevent multiple responses
+
+        if (err) {
+            responseSent = true;  // Mark that the response has been sent
+            return res.status(404).send(err);  // Texture not found or directory does not exist
+        }
+
+        responseSent = true;  // Mark that the response has been sent
+        res.sendFile(texturePath);  // Send the texture file if found
     });
 });
+
+// Function to recursively search a directory for a file
+const searchDirectoryForTexture = (directory, texture, callback) => {
+  fs.readdir(directory, (err, files) => {
+      if (err) {
+          return callback(err);
+      }
+
+      let texturePath = null;
+
+      // Check if texture file exists in this directory
+      for (let file of files) {
+          let filePath = path.join(directory, file);
+
+          // If it's a directory, search inside it
+          fs.stat(filePath, (err, stats) => {
+              if (stats.isDirectory()) {
+                  searchDirectoryForTexture(filePath, texture, callback);  // Recursively search
+              } else if (file === texture + '.png') {
+                  texturePath = filePath;  // Found the texture
+                  return callback(null, texturePath);  // Return the found texture path
+              }
+          });
+      }
+
+      // If texture wasn't found, pass a 'not found' error
+      if (!texturePath) {
+          return callback('Texture not found');
+      }
+  });
+};
 
 // API give names from the texture packs back to the site
 app.get('/resourcepackslist/', (req, res) => {
