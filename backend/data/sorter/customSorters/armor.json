@@ -1,8 +1,0 @@
-{
-    "categoryName": "All Armor",
-    "filter": {
-      "type": "armor"
-    },
-    "sortBy": ["priority", "name"]
-  }
-  

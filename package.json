@@ -1,0 +1,21 @@
+{
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "index-packs": "node scripts/index-packs.mjs"
+    },
+    "dependencies": {
+        "@vitejs/plugin-react": "latest",
+        "vite": "latest",
+        "typescript": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "jszip": "latest",
+        "file-saver": "latest"
+    },
+    "devDependencies": {
+        "@types/react": "latest",
+        "@types/react-dom": "latest",
+        "@types/file-saver": "latest"
+    }
+}

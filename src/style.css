@@ -1,0 +1,152 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    background: #0e1117;
+    color: #eaf0f6;
+    font: 14px system-ui
+}
+
+header {
+    height: 64px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding: 12px 20px;
+    background: #171c24;
+    border-bottom: 1px solid #283242;
+    position: fixed;
+    inset: 0 0 auto 0;
+    z-index: 2
+}
+
+header b {
+    font-size: 19px;
+    margin-right: auto
+}
+
+input {
+    background: #0e131a;
+    color: white;
+    border: 1px solid #334055;
+    border-radius: 9px;
+    padding: 10px
+}
+
+button {
+    background: #202835;
+    color: white;
+    border: 1px solid #344257;
+    border-radius: 9px;
+    padding: 9px 12px;
+    cursor: pointer
+}
+
+.primary {
+    background: #36b36a;
+    border: 0
+}
+
+aside {
+    position: fixed;
+    top: 64px;
+    bottom: 0;
+    width: 230px;
+    padding: 20px;
+    background: #141922;
+    border-right: 1px solid #283242
+}
+
+aside label {
+    display: block;
+    padding: 9px 0
+}
+
+main {
+    margin-left: 230px;
+    padding: 88px 24px 24px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(145px, 1fr));
+    gap: 14px
+}
+
+.card {
+    height: 185px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: #171d26
+}
+
+.card:hover {
+    border-color: #5ac987;
+    transform: translateY(-2px)
+}
+
+img,
+.placeholder {
+    width: 96px;
+    height: 96px;
+    object-fit: contain;
+    image-rendering: pixelated
+}
+
+.placeholder {
+    display: grid;
+    place-items: center;
+    background: #242d39;
+    font-size: 35px
+}
+
+.card small,
+.variant small {
+    color: #94a3b8
+}
+
+.backdrop {
+    position: fixed;
+    inset: 0;
+    background: #000a;
+    z-index: 5;
+    display: grid;
+    place-items: center
+}
+
+.modal {
+    width: min(900px, 90vw);
+    max-height: 85vh;
+    overflow: auto;
+    background: #161c25;
+    padding: 25px;
+    border: 1px solid #354259;
+    border-radius: 16px;
+    position: relative
+}
+
+.close {
+    position: absolute;
+    right: 20px
+}
+
+.variants {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 12px
+}
+
+.variant {
+    min-height: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px
+}
+
+.variant.active {
+    border: 2px solid #43cf7d
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "pack": {
+    "id": "Vanilla"
+  },
+  "generatedAt": "2026-09-27T16:11:30.633Z",
+  "stats": {
+    "pngFiles": 0,
+    "vanilla": 0,
+    "cit": 0,
+    "citDefinitions": 0,
+    "citWithoutTexture": 0,
+    "total": 0
+  },
+  "items": []
+}

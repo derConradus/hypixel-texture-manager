@@ -1,0 +1,4 @@
+import JSZip from "jszip"; import type { Item, Source } from "./types";
+export type LocalPack = { source: Source, zip: JSZip };
+const image = /^assets\/minecraft\/textures\/(item|block)\/(.+)\.png$/;
+export async function readLocalPack(file: File): Promise<{ pack: LocalPack, items: Item[] }> { const zip = await JSZip.loadAsync(file); const id = "local-" + crypto.randomUUID(); const source = { id, name: file.name, kind: "local" as const }; const items: Item[] = []; for (const path of Object.keys(zip.files)) { const m = path.match(image); if (!m) continue; const key = `minecraft:${m[1]}/${m[2]}`; const name = m[2].split('/').pop()!.replaceAll('_', ' '); const blob = await zip.file(path)!.async('blob'); items.push({ id: key, name, category: m[1], variants: [{ id: id + ':' + path, label: file.name, sourceId: id, preview: URL.createObjectURL(blob), assets: [{ path, zipPath: path }] }] }); } return { pack: { source, zip }, items }; }

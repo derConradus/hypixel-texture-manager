@@ -1,0 +1,125 @@
+{
+  "version": 2,
+  "generatedAt": "2026-09-27T16:11:32.795Z",
+  "packs": [
+    {
+      "id": "FurfSky_Reborn",
+      "name": "FurfSky Reborn",
+      "type": "hypixel-skyblock",
+      "minecraftVersion": null,
+      "description": "",
+      "stats": {
+        "pngFiles": 2388,
+        "vanilla": 0,
+        "cit": 2492,
+        "citDefinitions": 2497,
+        "citWithoutTexture": 5,
+        "total": 2085
+      },
+      "icon": "/packs/FurfSky_Reborn/pack.png",
+      "manifest": "/packs/FurfSky_Reborn/manifest.json"
+    },
+    {
+      "id": "Hypixel_Plus",
+      "name": "Hypixel Plus",
+      "type": "hypixel-skyblock",
+      "minecraftVersion": null,
+      "description": "",
+      "stats": {
+        "pngFiles": 3466,
+        "vanilla": 0,
+        "cit": 3488,
+        "citDefinitions": 3537,
+        "citWithoutTexture": 49,
+        "total": 3008
+      },
+      "icon": "/packs/Hypixel_Plus/pack.png",
+      "manifest": "/packs/Hypixel_Plus/manifest.json"
+    },
+    {
+      "id": "PacksHQ_16x_14",
+      "name": "PacksHQ 16x 14",
+      "type": "hypixel-skyblock",
+      "minecraftVersion": null,
+      "description": "",
+      "stats": {
+        "pngFiles": 1474,
+        "vanilla": 0,
+        "cit": 1346,
+        "citDefinitions": 1477,
+        "citWithoutTexture": 131,
+        "total": 1278
+      },
+      "icon": "/packs/PacksHQ_16x_14/pack.png",
+      "manifest": "/packs/PacksHQ_16x_14/manifest.json"
+    },
+    {
+      "id": "RNBW+_0_7",
+      "name": "RNBW+ 0 7",
+      "type": "hypixel-skyblock",
+      "minecraftVersion": null,
+      "description": "",
+      "stats": {
+        "pngFiles": 1262,
+        "vanilla": 0,
+        "cit": 902,
+        "citDefinitions": 1032,
+        "citWithoutTexture": 130,
+        "total": 706
+      },
+      "icon": "/packs/RNBW+_0_7/pack.png",
+      "manifest": "/packs/RNBW+_0_7/manifest.json"
+    },
+    {
+      "id": "Vanilla",
+      "name": "Vanilla",
+      "type": "minecraft",
+      "minecraftVersion": null,
+      "description": "",
+      "stats": {
+        "pngFiles": 0,
+        "vanilla": 0,
+        "cit": 0,
+        "citDefinitions": 0,
+        "citWithoutTexture": 0,
+        "total": 0
+      },
+      "icon": "/packs/Vanilla/pack.png",
+      "manifest": "/packs/Vanilla/manifest.json"
+    },
+    {
+      "id": "Vanilla+_1_441",
+      "name": "Vanilla+ 1 441",
+      "type": "hypixel-skyblock",
+      "minecraftVersion": null,
+      "description": "",
+      "stats": {
+        "pngFiles": 1108,
+        "vanilla": 0,
+        "cit": 930,
+        "citDefinitions": 940,
+        "citWithoutTexture": 10,
+        "total": 701
+      },
+      "icon": "/packs/Vanilla+_1_441/pack.png",
+      "manifest": "/packs/Vanilla+_1_441/manifest.json"
+    },
+    {
+      "id": "Worlds_and_Beyond_1_4_1",
+      "name": "Worlds And Beyond 1 4 1",
+      "type": "hypixel-skyblock",
+      "minecraftVersion": null,
+      "description": "",
+      "stats": {
+        "pngFiles": 737,
+        "vanilla": 0,
+        "cit": 457,
+        "citDefinitions": 650,
+        "citWithoutTexture": 193,
+        "total": 293
+      },
+      "icon": "/packs/Worlds_and_Beyond_1_4_1/pack.png",
+      "manifest": "/packs/Worlds_and_Beyond_1_4_1/manifest.json"
+    }
+  ]
+}
