@@ -3,7 +3,7 @@
   "pack": {
     "id": "PacksHQ_16x_14"
   },
-  "generatedAt": "2026-09-27T16:11:29.308Z",
+  "generatedAt": "2026-09-27T17:32:39.887Z",
   "stats": {
     "pngFiles": 1474,
     "vanilla": 0,
@@ -117,6 +117,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/adaptive_boots.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_boots.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_boots.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_boots.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_boots.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_boots.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_boots.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_boots.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_boots.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_boots.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_boots.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_boots.properties"
             }
           ],
           "cit": {
@@ -155,6 +195,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/adaptive_chestplate.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_chestplate.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_chestplate.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_chestplate.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_chestplate.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_chestplate.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_chestplate.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_chestplate.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_chestplate.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_chestplate.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_chestplate.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_chestplate.properties"
             }
           ],
           "cit": {
@@ -193,6 +273,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/adaptive_leggings.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_leggings.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_leggings.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/archer_adaptive/archer_adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_leggings.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_leggings.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/berserk_adaptive/berserk_adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_leggings.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_leggings.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/healer_adaptive/healer_adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_leggings.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_leggings.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/mage_adaptive/mage_adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_leggings.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_leggings.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/adaptive/tank_adaptive/tank_adaptive_leggings.properties"
             }
           ],
           "cit": {
@@ -1181,6 +1301,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/swords/aspect_of_the_jerry.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/aspect_of_the_jerry.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/thick_aspect_of_the_jerry.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/thick_aspect_of_the_jerry.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/thick_aspect_of_the_jerry.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/thick_aspect_of_the_jerry.properties"
             }
           ],
           "cit": {
@@ -1295,6 +1423,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/atomsplit_katana.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/atomsplit_katana.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/atomsplit_katana_glow.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/atomsplit_katana_glow.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/atomsplit_katana_glow.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/atomsplit_katana_glow.properties"
             }
           ],
           "cit": {
@@ -2967,6 +3103,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/bows/_dungeon/bonemerang/bonemerang.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/bows/_dungeon/bonemerang/bonemerang.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/bows/_dungeon/bonemerang/bonemerang_ghost.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/bows/_dungeon/bonemerang/bonemerang_ghost.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/bows/_dungeon/bonemerang/bonemerang_ghost.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/bows/_dungeon/bonemerang/bonemerang_ghost.properties"
             }
           ],
           "cit": {
@@ -3043,6 +3187,62 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_blue.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_blue.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_blue.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_blue.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_green.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_green.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_green.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_green.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_light_blue.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_light_blue.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_light_blue.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_light_blue.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_light_green.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_light_green.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_light_green.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_light_green.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_orange.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_orange.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_orange.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_orange.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_pink.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_pink.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_pink.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_pink.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_purple.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_purple.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_purple.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/bonzo_staff/bonzo_staff_purple.properties"
             }
           ],
           "cit": {
@@ -3537,6 +3737,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/cactus_knife.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/cactus_knife.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/cactus_knife_menu.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/cactus_knife_menu.properties"
             }
           ],
           "cit": {
@@ -3841,6 +4045,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/catalyst.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/catalyst.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/catalyst_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/catalyst_bz.properties"
             }
           ],
           "cit": {
@@ -4639,6 +4847,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/coco_chopper.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/coco_chopper.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/coco_chopper_menu.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/coco_chopper_menu.properties"
             }
           ],
           "cit": {
@@ -7641,6 +7853,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/orbs/archer_dun_orb.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/archer_dun_orb.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/beserk_dun_orb.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/beserk_dun_orb.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/beserk_dun_orb.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/beserk_dun_orb.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/empty_dun_orb.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/empty_dun_orb.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/empty_dun_orb.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/empty_dun_orb.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/healer_dun_orb.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/healer_dun_orb.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/healer_dun_orb.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/healer_dun_orb.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/mage_dun_orb.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/mage_dun_orb.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/mage_dun_orb.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/mage_dun_orb.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/tank_dun_orb.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/tank_dun_orb.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/orbs/tank_dun_orb.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/orbs/tank_dun_orb.properties"
             }
           ],
           "cit": {
@@ -8819,6 +9071,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/miner_update/enchanted_titanium.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/enchanted_titanium.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/miner_update/enchanted_titanium_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/enchanted_titanium_bz.properties"
             }
           ],
           "cit": {
@@ -13037,6 +13293,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/foul_flesh.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/foul_flesh.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/foul_flesh_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/foul_flesh_bz.properties"
             }
           ],
           "cit": {
@@ -13645,6 +13905,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/fuming_potato_book.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/fuming_potato_book.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/fuming_potato_book_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/fuming_potato_book_bz.properties"
             }
           ],
           "cit": {
@@ -13683,6 +13947,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/fungi_cutter_brown.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/fungi_cutter_brown.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/fungi_cutter_red.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/fungi_cutter_red.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/fungi_cutter_red.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/fungi_cutter_red.properties"
             }
           ],
           "cit": {
@@ -14823,6 +15095,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/miner_update/crystal_hollows/goblin_eggs/goblin_egg.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/crystal_hollows/goblin_eggs/goblin_egg.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/miner_update/goblin_egg.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/goblin_egg.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/miner_update/goblin_egg.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/goblin_egg.properties"
             }
           ],
           "cit": {
@@ -15165,6 +15445,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/golden_tooth.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/golden_tooth.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/golden_tooth_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/golden_tooth_bz.properties"
             }
           ],
           "cit": {
@@ -15659,6 +15943,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/griffin_feather.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/griffin_feather.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/griffin_feather_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/griffin_feather_bz.properties"
             }
           ],
           "cit": {
@@ -17255,6 +17543,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/hot_potato_book.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/hot_potato_book.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/hot_potato_book_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/hot_potato_book_bz.properties"
             }
           ],
           "cit": {
@@ -21397,6 +21689,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/melon_dicer.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/melon_dicer.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/melon_dicer_menu.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/melon_dicer_menu.properties"
             }
           ],
           "cit": {
@@ -21473,6 +21769,22 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/swords/midas_staff.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/midas_staff.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/midas_staff_100.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/midas_staff_100.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/midas_staff_100.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/midas_staff_100.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/midas_staff_50.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/midas_staff_50.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/midas_staff_50.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/midas_staff_50.properties"
             }
           ],
           "cit": {
@@ -21511,6 +21823,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/swords/midas_sword.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/midas_sword.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/midas_sword_50m.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/midas_sword_50m.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/midas_sword_50m.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/midas_sword_50m.properties"
             }
           ],
           "cit": {
@@ -28921,6 +29241,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/pumpkin_dicer.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/pumpkin_dicer.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/tools/contest_update/pumpkin_dicer_menu.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/tools/contest_update/pumpkin_dicer_menu.properties"
             }
           ],
           "cit": {
@@ -29757,6 +30081,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/miner_update/refined_mithril.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/refined_mithril.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/miner_update/refined_mithril_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/refined_mithril_bz.properties"
             }
           ],
           "cit": {
@@ -29833,6 +30161,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/miner_update/refined_titanium.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/refined_titanium.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/miner_update/refined_titanium_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/refined_titanium_bz.properties"
             }
           ],
           "cit": {
@@ -30707,6 +31039,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/revenant_viscera.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/revenant_viscera.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/revenant_viscera_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/revenant_viscera_bz.properties"
             }
           ],
           "cit": {
@@ -32303,6 +32639,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/swords/scorpion_foil.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/scorpion_foil.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/thick_scorpion_foil.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/thick_scorpion_foil.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/thick_scorpion_foil.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/thick_scorpion_foil.properties"
             }
           ],
           "cit": {
@@ -32759,6 +33103,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/shark_fin.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/shark_fin.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/shark_fin_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/shark_fin_bz.properties"
             }
           ],
           "cit": {
@@ -36939,6 +37287,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/miner_update/starfall.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/starfall.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/miner_update/starfall_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/starfall_bz.properties"
             }
           ],
           "cit": {
@@ -37129,6 +37481,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_archer.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_archer.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_archer.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_archer.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_beserk.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_beserk.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_beserk.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_beserk.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_healer.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_healer.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_healer.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_healer.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_mage.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_mage.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_mage.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_mage.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_tank.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_tank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_tank.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/_dungeon/adaptive_blade/adaptive_blade_tank.properties"
             }
           ],
           "cit": {
@@ -38041,6 +38433,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/swords/sword_of_revelations.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/sword_of_revelations.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/thick_sword_of_revelations.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/thick_sword_of_revelations.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/thick_sword_of_revelations.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/thick_sword_of_revelations.properties"
             }
           ],
           "cit": {
@@ -38307,6 +38707,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/swords/tactician_sword.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/tactician_sword.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/thick_tactician_sword.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/thick_tactician_sword.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/swords/thick_tactician_sword.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/swords/thick_tactician_sword.properties"
             }
           ],
           "cit": {
@@ -38801,6 +39209,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/tarantula_silk.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/tarantula_silk.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tarantula_silk_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/tarantula_silk_bz.properties"
             }
           ],
           "cit": {
@@ -38839,6 +39251,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/tarantula_web.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/tarantula_web.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tarantula_web_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/tarantula_web_bz.properties"
             }
           ],
           "cit": {
@@ -39105,6 +39521,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/spirit/spirit_boots.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/spirit/spirit_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/spirit/spirit_boots_armor.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/spirit/spirit_boots_armor.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/_dungeon/spirit/spirit_boots_armor.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/armor/_dungeon/spirit/spirit_boots_armor.properties"
             }
           ],
           "cit": {
@@ -40321,6 +40745,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/miner_update/titanium_ore.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/titanium_ore.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/miner_update/titanium_ore_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/titanium_ore_bz.properties"
             }
           ],
           "cit": {
@@ -40473,6 +40901,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/miner_update/treasurite.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/treasurite.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/miner_update/treasurite_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/miner_update/treasurite_bz.properties"
             }
           ],
           "cit": {
@@ -46059,6 +46491,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/voidedge_katana.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/voidedge_katana.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/voidedge_katana_glow.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/voidedge_katana_glow.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/voidedge_katana_glow.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/voidedge_katana_glow.properties"
             }
           ],
           "cit": {
@@ -46173,6 +46613,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/vorpal_katana.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/vorpal_katana.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/vorpal_katana_glow.png",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/vorpal_katana_glow.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/vorpal_katana_glow.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/ender_slayer/swords/vorpal_katana_glow.properties"
             }
           ],
           "cit": {
@@ -46743,6 +47191,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/werewolf_skin.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/werewolf_skin.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/werewolf_skin_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/werewolf_skin_bz.properties"
             }
           ],
           "cit": {
@@ -47351,6 +47803,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/wolf_tooth.properties",
               "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/wolf_tooth.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/wolf_tooth_bz.properties",
+              "url": "/packs/PacksHQ_16x_14/assets/minecraft/mcpatcher/cit/items/wolf_tooth_bz.properties"
             }
           ],
           "cit": {

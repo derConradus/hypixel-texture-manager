@@ -3,7 +3,7 @@
   "pack": {
     "id": "RNBW+_0_7"
   },
-  "generatedAt": "2026-09-27T16:11:30.598Z",
+  "generatedAt": "2026-09-27T17:32:41.150Z",
   "stats": {
     "pngFiles": 1262,
     "vanilla": 0,
@@ -79,6 +79,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/adaptive_boots.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_boots.properties"
             }
           ],
           "cit": {
@@ -117,6 +157,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/adaptive_chestplate.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_chestplate.properties"
             }
           ],
           "cit": {
@@ -155,6 +235,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/adaptive_leggings.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive_leggings.properties"
             }
           ],
           "cit": {
@@ -193,6 +313,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/aiming.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/aiming.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/aiming.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/aiming.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/aiming.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/aiming.properties"
             }
           ],
           "cit": {
@@ -459,6 +587,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/angler.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/angler.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/angler.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/angler.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/angler.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/angler.properties"
             }
           ],
           "cit": {
@@ -1447,6 +1583,442 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dragon/holy/dragon.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/holy/dragon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/old/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/protector/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/strong/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/superior/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/wise/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/young/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/adaptive.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/adaptive/adaptive.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/archer/adaptive.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/berserker/adaptive.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/healer/adaptive.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/mage/adaptive.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/adaptive/tank/adaptive.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/bouncy_armor/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/bouncy_armor/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/bouncy_armor/bouncy.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/bouncy_armor/bouncy.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy_armor/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy_armor/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy_armor/heavy.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy_armor/heavy.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten_armor/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten_armor/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten_armor/rotten_armor.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten_armor/rotten_armor.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_grunt/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_grunt/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_grunt/skeleton_grunt.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_grunt/skeleton_grunt.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_lord/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_lord/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_lord/skeleton_lord.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_lord/skeleton_lord.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_master/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_master/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_master/skeleton_master_layer_1.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_master/skeleton_master_layer_1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_soldier/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_soldier/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_soldier/skeleton_soldier.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/skeleton_soldier/skeleton_soldier.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/stone_chestplate/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/stone_chestplate/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/stone_chestplate/metal.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/stone_chestplate/metal.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/stone_chestplate/steel.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/stone_chestplate/steel.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/stone_chestplate/stone.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/stone_chestplate/stone.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy_armor/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy_armor/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy_armor/heavy.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy_armor/heavy.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/goldor.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/goldor.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/thorn.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/thorn.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/maxor.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/maxor.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/necron.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/necron.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/storm.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/storm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/zombie_commander.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/zombie_commander.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_lord/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_lord/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_lord/zombie_lord.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_lord/zombie_lord.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/zombie_soldier.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/zombie_soldier.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor_hat.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor_hat.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_armor/farm_armor_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit_hat.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit_hat.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/farmer/farm_suit/farm_suit_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/heat/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/heat/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/heat/heat.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/heat/heat.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/speedster/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/speedster/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/speedster/speedster.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/speedster/speedster.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/speedster/speedster_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/speedster/speedster_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/speedster/speedster_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/speedster/speedster_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/speedster/speedster_hat.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/speedster/speedster_hat.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/speedster/speedster_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/speedster/speedster_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tarantula/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tarantula/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula_helmet.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula_helmet.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tarantula/tarantula_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_sunglasses.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_sunglasses.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_tuxedo.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_tuxedo.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_tuxedo_jacket.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_tuxedo_jacket.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_tuxedo_oxfords.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_tuxedo_oxfords.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_tuxedo_pants.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/cheap tuxedo/cheap_tuxedo_pants.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_sunglasses.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_sunglasses.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_tuxedo.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_tuxedo.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_tuxedo_jacket.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_tuxedo_jacket.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_tuxedo_oxfords.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_tuxedo_oxfords.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_tuxedo_pants.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/elegant tuxedo/elegant_tuxedo_pants.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/fancy_sunglasses.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/fancy_sunglasses.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/fancy_tuxedo.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/fancy_tuxedo.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/fancy_tuxedo_oxfords.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/fancy_tuxedo_oxfords.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/fancy_tuxedo_pants.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/tuxedo/fancy tuxedo/fancy_tuxedo_pants.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/yog/blank.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/yog/blank.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/yog/yog.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/yog/yog.properties"
             }
           ],
           "cit": {
@@ -1485,6 +2057,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/blast_prot.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/blast_prot.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/blast_prot.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/blast_prot.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/blast_prot.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/blast_prot.properties"
             }
           ],
           "cit": {
@@ -1675,6 +2255,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/blessing.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/blessing.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/blessing.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/blessing.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/blessing.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/blessing.properties"
             }
           ],
           "cit": {
@@ -1751,6 +2339,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/boa.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/boa.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/boa.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/boa.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/boa.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/boa.properties"
             }
           ],
           "cit": {
@@ -2587,6 +3183,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/books/books_iv_generic.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/books/books_iv_generic.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/books/books_vi_generic.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/books/books_vi_generic.properties"
             }
           ],
           "cit": {
@@ -2929,6 +3529,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/caster.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/caster.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/caster.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/caster.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/caster.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/caster.properties"
             }
           ],
           "cit": {
@@ -3081,6 +3689,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/cleave.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/cleave.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/cleave.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/cleave.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/cleave.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/cleave.properties"
             }
           ],
           "cit": {
@@ -3385,6 +4001,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/critical.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/critical.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/critical.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/critical.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/critical.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/critical.properties"
             }
           ],
           "cit": {
@@ -3461,6 +4085,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/cubism.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/cubism.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/cubism.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/cubism.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/cubism.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/cubism.properties"
             }
           ],
           "cit": {
@@ -3689,6 +4321,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_deluxe.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_deluxe.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/bank_accounts/deluxe.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/deluxe.properties"
             }
           ],
           "cit": {
@@ -3727,6 +4363,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/depth_strider.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/depth_strider.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/depth_strider.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/depth_strider.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/depth_strider.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/depth_strider.properties"
             }
           ],
           "cit": {
@@ -3955,6 +4599,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/divan.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/divan.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/divan.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/divan.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/divan_empty.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/divan_empty.properties"
             }
           ],
           "cit": {
@@ -4335,6 +4987,62 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dragon/holy/dragon_boots.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/holy/dragon_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_boots.properties"
             }
           ],
           "cit": {
@@ -4373,6 +5081,62 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dragon/holy/dragon_chestplate.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/holy/dragon_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_chestplate.properties"
             }
           ],
           "cit": {
@@ -4449,6 +5213,62 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dragon/holy/dragon_leggings.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/holy/dragon_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/old/dragon_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/protector/dragon_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/strong/dragon_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/superior/dragon_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/dragon_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/wise/dragon_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dragon/young/dragon_leggings.properties"
             }
           ],
           "cit": {
@@ -4867,6 +5687,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/eff.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/eff.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/eff.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/eff.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/eff.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/eff.properties"
             }
           ],
           "cit": {
@@ -5323,6 +6151,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/ender_slayer.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/ender_slayer.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/ender_slayer.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/ender_slayer.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/ender_slayer.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/ender_slayer.properties"
             }
           ],
           "cit": {
@@ -5437,6 +6273,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/execute.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/execute.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/execute.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/execute.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/execute.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/execute.properties"
             }
           ],
           "cit": {
@@ -5475,6 +6319,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/experience.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/experience.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/experience.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/experience.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/experience.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/experience.properties"
             }
           ],
           "cit": {
@@ -5855,6 +6707,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/feather_falling.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/feather_falling.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/feather_falling.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/feather_falling.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/feather_falling.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/feather_falling.properties"
             }
           ],
           "cit": {
@@ -6235,6 +7095,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/fire_aspect.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/fire_aspect.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fire_aspect.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fire_aspect.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fire_aspect.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fire_aspect.properties"
             }
           ],
           "cit": {
@@ -6273,6 +7141,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/fire_prot.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/fire_prot.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fire_prot.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fire_prot.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fire_prot.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fire_prot.properties"
             }
           ],
           "cit": {
@@ -6311,6 +7187,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/first_strike.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/first_strike.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/first_strike.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/first_strike.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/first_strike.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/first_strike.properties"
             }
           ],
           "cit": {
@@ -7261,6 +8145,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/fortune.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/fortune.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fortune.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fortune.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fortune.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/fortune.properties"
             }
           ],
           "cit": {
@@ -7375,6 +8267,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/frail.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/frail.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/frail.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/frail.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/frail.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/frail.properties"
             }
           ],
           "cit": {
@@ -7413,6 +8313,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/frost_walker.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/frost_walker.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/frost_walker.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/frost_walker.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/frost_walker.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/frost_walker.properties"
             }
           ],
           "cit": {
@@ -7755,6 +8663,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/ruby_drill.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/ruby_drill.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/ruby_drill.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/ruby_drill.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/ruby_drill_empty.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/ruby_drill_empty.properties"
             }
           ],
           "cit": {
@@ -7793,6 +8709,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/gem_drill.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/gem_drill.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/gem_drill.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/gem_drill.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/gem_drill_empty.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/gem_drill_empty.properties"
             }
           ],
           "cit": {
@@ -7831,6 +8755,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/topaz_drill.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/topaz_drill.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/topaz_drill.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/topaz_drill.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/topaz_drill_empty.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/topaz_drill_empty.properties"
             }
           ],
           "cit": {
@@ -7869,6 +8801,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/jasper_drill.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/jasper_drill.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/jasper_drill.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/jasper_drill.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/jasper_drill_empty.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/tools/jasper_drill_empty.properties"
             }
           ],
           "cit": {
@@ -7907,6 +8847,22 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_base.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_base.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_full.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_full.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_full.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_full.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_max.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_max.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_max.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/gauntlet_max.properties"
             }
           ],
           "cit": {
@@ -8135,6 +9091,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/giant_killer.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/giant_killer.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/giant_killer.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/giant_killer.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/giant_killer.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/giant_killer.properties"
             }
           ],
           "cit": {
@@ -8857,6 +9821,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_gold.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_gold.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/bank_accounts/gold.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/gold.properties"
             }
           ],
           "cit": {
@@ -9199,6 +10167,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/election_items/bazaar_icon.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/election_items/bazaar_icon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/election_items/great_white_shark_tooth.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/election_items/great_white_shark_tooth.properties"
             }
           ],
           "cit": {
@@ -9237,6 +10209,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/spooky_festival/green_candy.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/spooky_festival/green_candy.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/spooky_festival/spooky_bazaar.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/spooky_festival/spooky_bazaar.properties"
             }
           ],
           "cit": {
@@ -9313,6 +10289,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/growth.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/growth.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/growth.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/growth.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/growth.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/growth.properties"
             }
           ],
           "cit": {
@@ -9541,6 +10525,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/crystal_hollows/enchanted_hardstone.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/crystal_hollows/enchanted_hardstone.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/crystal_hollows/hardstone.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/crystal_hollows/hardstone.properties"
             }
           ],
           "cit": {
@@ -9579,6 +10567,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/harvesting.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/harvesting.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/harvesting.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/harvesting.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/harvesting.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/harvesting.properties"
             }
           ],
           "cit": {
@@ -13607,6 +14603,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/impaling.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/impaling.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/impaling.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/impaling.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/impaling.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/impaling.properties"
             }
           ],
           "cit": {
@@ -13645,6 +14649,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/inf_quiver.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/inf_quiver.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/inf_quiver.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/inf_quiver.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/inf_quiver.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/inf_quiver.properties"
             }
           ],
           "cit": {
@@ -14063,6 +15075,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/potions/jyrre.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/potions/jyrre.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/potions/normal/jyrre.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/potions/normal/jyrre.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/potions/normal/jyrre.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/potions/normal/jyrre.properties"
             }
           ],
           "cit": {
@@ -14101,6 +15121,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/kb.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/kb.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/kb.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/kb.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/kb.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/kb.properties"
             }
           ],
           "cit": {
@@ -14215,6 +15243,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/lethality.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/lethality.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lethality.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lethality.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lethality.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lethality.properties"
             }
           ],
           "cit": {
@@ -14253,6 +15289,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/lifesteal.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/lifesteal.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lifesteal.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lifesteal.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lifesteal.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lifesteal.properties"
             }
           ],
           "cit": {
@@ -14329,6 +15373,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/looting.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/looting.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/looting.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/looting.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/looting.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/looting.properties"
             }
           ],
           "cit": {
@@ -14367,6 +15419,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/luck.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/luck.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/luck.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/luck.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/luck.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/luck.properties"
             }
           ],
           "cit": {
@@ -14405,6 +15465,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/lure.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/lure.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lure.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lure.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lure.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/lure.properties"
             }
           ],
           "cit": {
@@ -14671,6 +15739,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/magnet.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/magnet.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/magnet.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/magnet.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/magnet.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/magnet.properties"
             }
           ],
           "cit": {
@@ -15127,6 +16203,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/melee/midas_staff/midas_staff_0.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/melee/midas_staff/midas_staff_0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/melee/midas_staff/midas_staff_v_m.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/melee/midas_staff/midas_staff_v_m.properties"
             }
           ],
           "cit": {
@@ -15279,6 +16359,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/melee/midas_sword/midas_sword_l_m.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/melee/midas_sword/midas_sword_l_m.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/melee/midas_sword/midas_test.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/melee/midas_sword/midas_test.properties"
             }
           ],
           "cit": {
@@ -16571,6 +17655,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect_boots.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_boots.properties"
             }
           ],
           "cit": {
@@ -16609,6 +17701,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect_chestplate.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_chestplate.properties"
             }
           ],
           "cit": {
@@ -16685,6 +17785,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect_helmet.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect_helmet.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_helmet.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_helmet.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_helmet.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_helmet.properties"
             }
           ],
           "cit": {
@@ -16799,6 +17907,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_layer_1.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_layer_1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect.properties"
             }
           ],
           "cit": {
@@ -16837,6 +17953,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect_leggings.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/i/perfect_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/perfect/xii/perfect_leggings.properties"
             }
           ],
           "cit": {
@@ -17521,6 +18645,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/power.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/power.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/power.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/power.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/power.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/power.properties"
             }
           ],
           "cit": {
@@ -17559,6 +18691,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_artifact_base.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_artifact_base.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_artifact_full.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_artifact_full.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_artifact_full.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_artifact_full.properties"
             }
           ],
           "cit": {
@@ -17635,6 +18775,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_ring_base.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_ring_base.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_ring_full.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_ring_full.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_ring_full.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_ring_full.properties"
             }
           ],
           "cit": {
@@ -17673,6 +18821,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_talisman_base.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_talisman_base.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_talisman_full.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/misc_items/dwarven_mines/infinity_gauntlet/talisman/power_talisman_full.properties"
             }
           ],
           "cit": {
@@ -17711,6 +18863,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_premier.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_premier.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/bank_accounts/premier.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/premier.properties"
             }
           ],
           "cit": {
@@ -17863,6 +19019,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/proj_prot.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/proj_prot.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/proj_prot.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/proj_prot.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/proj_prot.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/proj_prot.properties"
             }
           ],
           "cit": {
@@ -17901,6 +19065,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/prot.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/prot.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/prot.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/prot.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/prot.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/prot.properties"
             }
           ],
           "cit": {
@@ -17977,6 +19149,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/punch.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/punch.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/punch.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/punch.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/punch.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/punch.properties"
             }
           ],
           "cit": {
@@ -18699,6 +19879,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/respiration.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/respiration.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/respiration.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/respiration.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/respiration.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/respiration.properties"
             }
           ],
           "cit": {
@@ -20067,6 +21255,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/scavenger.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/scavenger.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/scavenger.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/scavenger.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/scavenger.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/scavenger.properties"
             }
           ],
           "cit": {
@@ -20257,6 +21453,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/sea_luck.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/sea_luck.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/sea_luck.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/sea_luck.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/sea_luck.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/sea_luck.properties"
             }
           ],
           "cit": {
@@ -20561,6 +21765,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/sharpness.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/sharpness.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/sharpness.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/sharpness.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/sharpness.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/sharpness.properties"
             }
           ],
           "cit": {
@@ -21967,6 +23179,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/smite.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/smite.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/smite.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/smite.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/smite.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/smite.properties"
             }
           ],
           "cit": {
@@ -22005,6 +23225,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/snipe.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/snipe.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/snipe.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/snipe.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/snipe.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/snipe.properties"
             }
           ],
           "cit": {
@@ -22575,6 +23803,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/spiked_hook.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/spiked_hook.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/spiked_hook.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/spiked_hook.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/spiked_hook.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/spiked_hook.properties"
             }
           ],
           "cit": {
@@ -22841,6 +24077,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_starter.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_starter.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/bank_accounts/starter.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/starter.properties"
             }
           ],
           "cit": {
@@ -23145,6 +24385,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_super_deluxe.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/bank_icon_super_deluxe.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/bank_accounts/super_deluxe.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/bank_accounts/super_deluxe.properties"
             }
           ],
           "cit": {
@@ -24095,6 +25339,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/thorns.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/thorns.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/thorns.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/thorns.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/thorns.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/thorns.properties"
             }
           ],
           "cit": {
@@ -24133,6 +25385,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/spirit_boots/spirit.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/spirit_boots/spirit.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/spirit_boots/spirit_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/spirit_boots/spirit_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/spirit_boots/spirit_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/spirit_boots/spirit_boots.properties"
             }
           ],
           "cit": {
@@ -24171,6 +25431,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/thunderlord.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/thunderlord.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/thunderlord.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/thunderlord.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/thunderlord.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/thunderlord.properties"
             }
           ],
           "cit": {
@@ -24893,6 +26161,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/vampirism.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/vampirism.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/vampirism.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/vampirism.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/vampirism.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/vampirism.properties"
             }
           ],
           "cit": {
@@ -24931,6 +26207,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/venomous.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/max_level/hypixel_skyblock/venomous.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/venomous.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/venomous.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/venomous.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/enchants/table_previews/normal/hypixel_skyblock/venomous.properties"
             }
           ],
           "cit": {
@@ -25311,6 +26595,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/wither_boots.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/wither_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_boots.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_boots.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_boots.properties"
             }
           ],
           "cit": {
@@ -25387,6 +26711,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/wither_chestplate.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/wither_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_chestplate.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_chestplate.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_chestplate.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_chestplate.properties"
             }
           ],
           "cit": {
@@ -25463,6 +26827,46 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/wither_leggings.properties",
               "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/wither_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/healers_wish/wither_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/wither_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/wither_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/wither_leggings.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_leggings.png",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_leggings.properties",
+              "url": "/packs/RNBW+_0_7/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/wither_leggings.properties"
             }
           ],
           "cit": {

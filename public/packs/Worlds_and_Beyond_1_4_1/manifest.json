@@ -3,7 +3,7 @@
   "pack": {
     "id": "Worlds_and_Beyond_1_4_1"
   },
-  "generatedAt": "2026-09-27T16:11:32.783Z",
+  "generatedAt": "2026-09-27T17:32:43.621Z",
   "stats": {
     "pngFiles": 737,
     "vanilla": 0,
@@ -193,6 +193,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/glacite/armor_layer_1.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/glacite/armor_layer_1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/lapis/armor_layer_1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/lapis/armor_layer_1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/lapis/lapis_armor_top.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/lapis/lapis_armor_top.properties"
             }
           ],
           "cit": {
@@ -231,6 +239,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/glacite/armor_layer_2.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/glacite/armor_layer_2.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/lapis/armor_layer_2.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/lapis/armor_layer_2.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/lapis/lapis_armor_btm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/lapis/lapis_armor_btm.properties"
             }
           ],
           "cit": {
@@ -269,6 +285,182 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/armor_layer0.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/armor_layer0.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/armor_layer0.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/armor_layer0.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/armor_layer0.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/armor_layer0.properties"
             }
           ],
           "cit": {
@@ -307,6 +499,174 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/armor_layer1.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/armor_layer1.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/armor_layer1.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/armor_layer1.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/armor_layer1.properties"
             }
           ],
           "cit": {
@@ -801,6 +1161,254 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dragon/holy/boots.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/holy/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/old/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/old/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/protector/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/protector/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/strong/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/strong/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/superior/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/superior/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/wise/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/wise/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/young/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/young/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/ender/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/ender/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/ender/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/ender/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/glacite/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/glacite/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/glacite/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/glacite/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/boots.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/icons/boots.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/icons/boots.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/icons/boots.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/icons/boots.properties"
             }
           ],
           "cit": {
@@ -839,6 +1447,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/bows/enderman/juju/bow.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/bows/enderman/juju/bow.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/bows/enderman/terminator/bow_standby.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/bows/enderman/terminator/bow_standby.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/bows/enderman/terminator/bow.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/bows/enderman/terminator/bow.properties"
             }
           ],
           "cit": {
@@ -1219,6 +1835,230 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/chest.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/superior/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/metal/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/metal/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/metal/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/metal/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/steel/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/steel/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/steel/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/steel/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/stone/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/stone/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/stone/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/stone/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/glacite/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/glacite/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/glacite/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/glacite/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/mithril_coat/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/mithril_coat/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/mithril_coat/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/mithril_coat/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/mithril_coat/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/mithril_coat/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/mithril_coat/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/mithril_coat/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/icons/chest.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/icons/chest.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/icons/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/icons/chest.properties"
             }
           ],
           "cit": {
@@ -1257,6 +2097,62 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dragon/holy/chest.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/holy/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/chestplate.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/old/chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/old/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/chestplate.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/protector/chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/protector/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/chestplate.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/strong/chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/strong/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/chestplate.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/chestplate.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/wise/chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/wise/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/chestplate.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/young/chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/young/chest.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/ender/chestplate.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/ender/chestplate.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/ender/chest.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/ender/chest.properties"
             }
           ],
           "cit": {
@@ -1371,6 +2267,30 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/carrot/common.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/carrot/common.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/common.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/common.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/common.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/common.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/common.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/common.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/common.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/common.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/common.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/common.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/common.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/common.properties"
             }
           ],
           "cit": {
@@ -3081,6 +4001,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/swords/gloomlock_grimoire.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/swords/gloomlock_grimoire.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/swords/gloomlockgrimoire.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/swords/gloomlockgrimoire.properties"
             }
           ],
           "cit": {
@@ -3879,6 +4803,78 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/helm.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/helm.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/icons/helm.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/icons/helm.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/icons/helm.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/icons/helm.properties"
             }
           ],
           "cit": {
@@ -4753,6 +5749,94 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dragon/holy/legs.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/holy/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/old/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/old/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/old/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/protector/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/protector/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/protector/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/strong/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/strong/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/strong/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/superior/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/superior/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/superior/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/unstable/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/unstable/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/wise/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/wise/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/wise/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/young/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dragon/young/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dragon/young/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/ender/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/ender/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/ender/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/ender/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/mastiff/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/reaper/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/revenant/icons/legs.properties"
             }
           ],
           "cit": {
@@ -4791,6 +5875,158 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/legs.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/heavy/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/necromancer_lord/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/rotten/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/super_heavy/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/goldor/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/maxor/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/necron/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/storm/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/wither/wither/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_commander/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_knight/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/zombie_soldier/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/farm/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/farm/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/glacite/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/glacite/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/glacite/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/glacite/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/goblin/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/goblin/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/perfect/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/perfect/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/final_destination/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/slayer/tarantula/icons/legs.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/icons/legs.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/icons/legs.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/sorrow/icons/legs.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/sorrow/icons/legs.properties"
             }
           ],
           "cit": {
@@ -6121,6 +7357,10 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/tools/mith_pick_3.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/mith_pick_3.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/mith_pick_4.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/mith_pick_4.properties"
             }
           ],
           "cit": {
@@ -7185,6 +8425,30 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/carrot/rare.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/carrot/rare.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/rare.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/rare.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/rare.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/rare.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/rare.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/rare.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/rare.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/rare.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/rare.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/rare.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/rare.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/rare.properties"
             }
           ],
           "cit": {
@@ -9009,6 +10273,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/armor_layer1.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/armor_layer1.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/icons/fragged_shadow_assassin_leggings.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/icons/fragged_shadow_assassin_leggings.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/icons/shadow_assassin_leggings.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/armor/dungeons/shadow_assassin_fragged/icons/shadow_assassin_leggings.properties"
             }
           ],
           "cit": {
@@ -9921,6 +11193,30 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/carrot/uncommon.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/carrot/uncommon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/uncommon.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/uncommon.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/uncommon.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/potato/uncommon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/uncommon.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/uncommon.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/uncommon.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/sugarcane/uncommon.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/uncommon.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/uncommon.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/uncommon.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/tools/hoes/wheat/uncommon.properties"
             }
           ],
           "cit": {
@@ -9959,6 +11255,14 @@
             {
               "path": "assets/minecraft/mcpatcher/cit/items/bows/dungeon/super undead/undead_bow.properties",
               "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/bows/dungeon/super undead/undead_bow.properties"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/bows/dungeon/undead/undead_bow_standby.png",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/bows/dungeon/undead/undead_bow_standby.png"
+            },
+            {
+              "path": "assets/minecraft/mcpatcher/cit/items/bows/dungeon/undead/undead_bow.properties",
+              "url": "/packs/Worlds_and_Beyond_1_4_1/assets/minecraft/mcpatcher/cit/items/bows/dungeon/undead/undead_bow.properties"
             }
           ],
           "cit": {

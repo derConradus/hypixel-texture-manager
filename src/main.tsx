@@ -1,10 +1,161 @@
-import React, { useEffect, useMemo, useRef, useState } from 'react'; import { createRoot } from 'react-dom/client'; import JSZip from 'jszip'; import { saveAs } from 'file-saver'; import './style.css'; import type { Item, Project, Source, Variant } from './types'; import { loadServer } from './server'; import { readLocalPack, type LocalPack } from './local';
-function merge(items: Item[]) { const m = new Map<string, Item>(); for (const x of items) { const y = m.get(x.id); if (y) y.variants.push(...x.variants); else m.set(x.id, { ...x, variants: [...x.variants] }); } return [...m.values()]; }
+import React, { useEffect, useMemo, useRef, useState } from 'react';
+import { createRoot } from 'react-dom/client';
+import JSZip from 'jszip';
+import { saveAs } from 'file-saver';
+import './style.css';
+import type { Item, Project, Source } from './types';
+import { loadServer } from './server';
+import { readLocalPack, type LocalPack } from './local';
+
+function merge(items: Item[]) {
+    const itemMap = new Map<string, Item>();
+    for (const item of items) {
+        const existingItem = itemMap.get(item.id);
+        if (existingItem) existingItem.variants.push(...item.variants);
+        else itemMap.set(item.id, { ...item, variants: [...item.variants] });
+    }
+    return [...itemMap.values()];
+}
+
 function App() {
-    const [sources, setSources] = useState<Source[]>([]), [items, setItems] = useState<Item[]>([]), [local, setLocal] = useState<Record<string, LocalPack>>({}), [base, setBase] = useState(''), [sel, setSel] = useState<Record<string, string>>({}), [q, setQ] = useState(''), [open, setOpen] = useState<Item | null>(null), file = useRef<HTMLInputElement>(null), project = useRef<HTMLInputElement>(null); useEffect(() => { loadServer().then(x => { setSources(x.sources); setItems(merge(x.items)); setBase(x.sources[0]?.id || '') }).catch(console.error) }, []); const list = useMemo(() => items.filter(i => i.name.toLowerCase().includes(q.toLowerCase())), [items, q]); const chosen = (i: Item) => i.variants.find(v => v.id === sel[i.id]) || i.variants.find(v => v.sourceId === base) || i.variants[0];
-    async function add(files: FileList | null) { for (const f of [...(files || [])]) { const r = await readLocalPack(f); setSources(s => [...s, r.pack.source]); setLocal(x => ({ ...x, [r.pack.source.id]: r.pack })); setItems(x => merge([...x, ...r.items])); } }
-    function saveProject() { const overrides: any = {}; for (const [id, variantId] of Object.entries(sel)) { const i = items.find(x => x.id === id), v = i?.variants.find(x => x.id === variantId); if (v) overrides[id] = { sourceId: v.sourceId, variantId }; } const p: Project = { format: 'texture-picker-project', version: 1, name: 'Mein Texture Pack', baseSourceId: base, sources: sources.map(s => ({ id: s.id, name: s.name, kind: s.kind })), overrides }; saveAs(new Blob([JSON.stringify(p, null, 2)], { type: 'application/json' }), 'texture-project.json') }
-    async function loadProject(f?: File) { if (!f) return; const p = JSON.parse(await f.text()) as Project; setBase(p.baseSourceId); setSel(Object.fromEntries(Object.entries(p.overrides).map(([k, v]) => [k, v.variantId]))); const missing = p.sources.filter(s => s.kind === 'local' && !sources.some(x => x.id === s.id)); if (missing.length) alert('Lokale Packs müssen erneut hinzugefügt werden: ' + missing.map(x => x.name).join(', ')); }
-    async function build() { const z = new JSZip(); z.file('pack.mcmeta', JSON.stringify({ pack: { pack_format: 48, description: 'Erstellt mit Texture Pack Builder' } }, null, 2)); for (const i of items) { const v = chosen(i); if (!v) continue; for (const a of v.assets) { let b: Blob | undefined; if (a.url) b = await fetch(a.url).then(r => r.blob()); else if (a.zipPath) b = await local[v.sourceId]?.zip.file(a.zipPath)?.async('blob'); if (b) z.file(a.path, b); } } saveAs(await z.generateAsync({ type: 'blob' }), 'Mein-Texture-Pack.zip') }
-    return <><header><b>Texture Pack Builder</b><input placeholder="Items suchen..." value={q} onChange={e => setQ(e.target.value)} /><button onClick={() => file.current?.click()}>+ Lokales Pack</button><button onClick={saveProject}>JSON speichern</button><button onClick={() => project.current?.click()}>JSON laden</button><button className="primary" onClick={build}>Pack erstellen</button></header><aside><h3>Grundlage</h3>{sources.map(s => <label key={s.id}><input type="radio" checked={base === s.id} onChange={() => setBase(s.id)} />{s.kind === 'local' ? '🔒' : '🌐'} {s.name}</label>)}<input hidden multiple type="file" accept=".zip" ref={file} onChange={e => add(e.target.files)} /><input hidden type="file" accept=".json" ref={project} onChange={e => loadProject(e.target.files?.[0])} /></aside><main>{list.map(i => { const v = chosen(i); return <button className="card" key={i.id} onClick={() => setOpen(i)}>{v?.preview ? <img src={v.preview} /> : <div className="placeholder">?</div>}<strong>{i.name}</strong><small>{sources.find(s => s.id === v?.sourceId)?.name || 'keine Quelle'}</small></button> })}</main>{open && <div className="backdrop" onClick={() => setOpen(null)}><section className="modal" onClick={e => e.stopPropagation()}><button className="close" onClick={() => setOpen(null)}>✕</button><h2>{open.name}</h2><div className="variants">{open.variants.map(v => <button key={v.id} className={'variant ' + (chosen(open)?.id === v.id ? 'active' : '')} onClick={() => { setSel(s => ({ ...s, [open.id]: v.id })); setOpen(null) }}>{v.preview ? <img src={v.preview} /> : <div className="placeholder">?</div>}<b>{sources.find(s => s.id === v.sourceId)?.name}</b><small>{v.label}</small></button>)}</div></section></div>}</>
-}; createRoot(document.getElementById('root')!).render(<App />);
+    const [sources, setSources] = useState<Source[]>([]);
+    const [items, setItems] = useState<Item[]>([]);
+    const [localPacks, setLocalPacks] = useState<Record<string, LocalPack>>({});
+    const [baseSourceId, setBaseSourceId] = useState('');
+    const [selectedVariants, setSelectedVariants] = useState<Record<string, string>>({});
+    const [searchQuery, setSearchQuery] = useState('');
+    const [openItem, setOpenItem] = useState<Item | null>(null);
+    const localPackInput = useRef<HTMLInputElement>(null);
+    const projectInput = useRef<HTMLInputElement>(null);
+
+    useEffect(() => {
+        loadServer().then(result => {
+            setSources(result.sources);
+            setItems(merge(result.items));
+            setBaseSourceId(result.sources[0]?.id || '');
+        }).catch(console.error);
+    }, []);
+
+    const filteredItems = useMemo(
+        () => items.filter(item => item.name.toLowerCase().includes(searchQuery.toLowerCase())),
+        [items, searchQuery]
+    );
+
+    const getSelectedVariant = (item: Item) =>
+        item.variants.find(variant => variant.id === selectedVariants[item.id]) ||
+        item.variants.find(variant => variant.sourceId === baseSourceId) ||
+        item.variants[0];
+
+    async function addLocalPacks(files: FileList | null) {
+        for (const file of [...(files || [])]) {
+            const result = await readLocalPack(file);
+            setSources(current => [...current, result.pack.source]);
+            setLocalPacks(current => ({ ...current, [result.pack.source.id]: result.pack }));
+            setItems(current => merge([...current, ...result.items]));
+        }
+    }
+
+    function saveProject() {
+        const overrides: Project['overrides'] = {};
+        for (const [itemId, variantId] of Object.entries(selectedVariants)) {
+            const item = items.find(current => current.id === itemId);
+            const variant = item?.variants.find(current => current.id === variantId);
+            if (variant) overrides[itemId] = { sourceId: variant.sourceId, variantId };
+        }
+        const project: Project = {
+            format: 'texture-picker-project',
+            version: 1,
+            name: 'My Texture Pack',
+            baseSourceId,
+            sources: sources.map(source => ({ id: source.id, name: source.name, kind: source.kind })),
+            overrides
+        };
+        saveAs(new Blob([JSON.stringify(project, null, 2)], { type: 'application/json' }), 'texture-project.json');
+    }
+
+    async function loadProject(file?: File) {
+        if (!file) return;
+        const project = JSON.parse(await file.text()) as Project;
+        setBaseSourceId(project.baseSourceId);
+        setSelectedVariants(Object.fromEntries(
+            Object.entries(project.overrides).map(([itemId, override]) => [itemId, override.variantId])
+        ));
+        const missingLocalPacks = project.sources.filter(
+            source => source.kind === 'local' && !sources.some(current => current.id === source.id)
+        );
+        if (missingLocalPacks.length) {
+            alert('Local packs must be added again: ' + missingLocalPacks.map(source => source.name).join(', '));
+        }
+    }
+
+    async function buildPack() {
+        const zip = new JSZip();
+        zip.file('pack.mcmeta', JSON.stringify({
+            pack: { pack_format: 48, description: 'Created with Texture Pack Builder' }
+        }, null, 2));
+
+        for (const item of items) {
+            const variant = getSelectedVariant(item);
+            if (!variant) continue;
+            for (const asset of variant.assets) {
+                let blob: Blob | undefined;
+                if (asset.url) blob = await fetch(asset.url).then(response => response.blob());
+                else if (asset.zipPath) blob = await localPacks[variant.sourceId]?.zip.file(asset.zipPath)?.async('blob');
+                if (blob) zip.file(asset.path, blob);
+            }
+        }
+        saveAs(await zip.generateAsync({ type: 'blob' }), 'My-Texture-Pack.zip');
+    }
+
+    return <>
+        <header>
+            <b>Texture Pack Builder</b>
+            <input placeholder="Search items..." value={searchQuery} onChange={event => setSearchQuery(event.target.value)} />
+            <button onClick={() => localPackInput.current?.click()}>+ Local Pack</button>
+            <button onClick={saveProject}>Save JSON</button>
+            <button onClick={() => projectInput.current?.click()}>Load JSON</button>
+            <button className="primary" onClick={buildPack}>Build Pack</button>
+        </header>
+        <aside>
+            <h3>Base Pack</h3>
+            {sources.map(source => <label key={source.id}>
+                <input type="radio" checked={baseSourceId === source.id} onChange={() => setBaseSourceId(source.id)} />
+                {source.kind === 'local' ? '🔒' : '🌐'} {source.name}
+            </label>)}
+            <input hidden multiple type="file" accept=".zip" ref={localPackInput} onChange={event => addLocalPacks(event.target.files)} />
+            <input hidden type="file" accept=".json" ref={projectInput} onChange={event => loadProject(event.target.files?.[0])} />
+        </aside>
+        <main>
+            {filteredItems.map(item => {
+                const variant = getSelectedVariant(item);
+                return <button className="card" key={item.id} onClick={() => setOpenItem(item)}>
+                    {variant?.preview ? <img src={variant.preview} alt={item.name} /> : <div className="placeholder">?</div>}
+                    <strong>{item.name}</strong>
+                    <small>{sources.find(source => source.id === variant?.sourceId)?.name || 'No source'}</small>
+                </button>;
+            })}
+        </main>
+        {openItem && <div className="backdrop" onClick={() => setOpenItem(null)}>
+            <section className="modal" onClick={event => event.stopPropagation()}>
+                <button className="close" onClick={() => setOpenItem(null)}>✕</button>
+                <h2>{openItem.name}</h2>
+                <div className="variants">
+                    {openItem.variants.map(variant => <button
+                        key={variant.id}
+                        className={'variant ' + (getSelectedVariant(openItem)?.id === variant.id ? 'active' : '')}
+                        onClick={() => {
+                            setSelectedVariants(current => ({ ...current, [openItem.id]: variant.id }));
+                            setOpenItem(null);
+                        }}
+                    >
+                        {variant.preview ? <img src={variant.preview} alt={variant.label} /> : <div className="placeholder">?</div>}
+                        <b>{sources.find(source => source.id === variant.sourceId)?.name}</b>
+                        <small>{variant.label}</small>
+                    </button>)}
+                </div>
+            </section>
+        </div>}
+    </>;
+}
+
+createRoot(document.getElementById('root')!).render(<App />);
